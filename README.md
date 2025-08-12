@@ -1,17 +1,18 @@
-![data-visualization development](https://media1.giphy.com/media/v1.Y2lkPTdiYzJhNDkweHB1OTk5OW5lcWptM3cxdTJ6bnUyNjhyODRyOTM3OHc3aWVsNXBjOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l4KhN0xSQ11fSS1La/giphy.gif)
-
 # Introducción
-¡Hola! Soy ateistsheep1997, un desarrollador con experiencia en diversas tecnologías y un amor por la programación.
+¡Hola! Soy ateistsheep1997, un desarrollador con una pasión por la programación y el software libre.
 
 # Habilidades
-- Lenguajes: Python, JavaScript, Java
-- Frameworks: React, Django
-- Herramientas: Git, Docker, AWS
+- JavaScript
+- Python
+- HTML & CSS
+- Desarrollo Web
+- Git y GitHub
 
 # Proyectos
-- [Nombre del Proyecto 1](enlace_proyecto_1): Breve descripción del proyecto.
-- [Nombre del Proyecto 2](enlace_proyecto_2): Breve descripción del proyecto.
+- [Proyecto1](https://github.com/ateistsheep1997/proyecto1): Una aplicación web para gestionar tareas.
+- [Proyecto2](https://github.com/ateistsheep1997/proyecto2): Un juego interactivo en JavaScript.
 
 # Contactos
-- Correo: ateistsheep1997@example.com
-- LinkedIn: [Perfil de LinkedIn](enlace_linkedin)
+Puedes encontrarme en:
+- [Twitter](https://twitter.com/ateistsheep1997)
+- [LinkedIn](https://linkedin.com/in/ateistsheep1997)
