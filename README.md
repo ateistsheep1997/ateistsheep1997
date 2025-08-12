@@ -1,16 +1,17 @@
-## Hi there 👋
+![data-visualization development](https://media1.giphy.com/media/v1.Y2lkPTdiYzJhNDkweHB1OTk5OW5lcWptM3cxdTJ6bnUyNjhyODRyOTM3OHc3aWVsNXBjOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l4KhN0xSQ11fSS1La/giphy.gif)
 
-<!--
-**ateistsheep1997/ateistsheep1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Introducción
+¡Hola! Soy ateistsheep1997, un desarrollador con experiencia en diversas tecnologías y un amor por la programación.
 
-Here are some ideas to get you started:
+# Habilidades
+- Lenguajes: Python, JavaScript, Java
+- Frameworks: React, Django
+- Herramientas: Git, Docker, AWS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Proyectos
+- [Nombre del Proyecto 1](enlace_proyecto_1): Breve descripción del proyecto.
+- [Nombre del Proyecto 2](enlace_proyecto_2): Breve descripción del proyecto.
+
+# Contactos
+- Correo: ateistsheep1997@example.com
+- LinkedIn: [Perfil de LinkedIn](enlace_linkedin)
